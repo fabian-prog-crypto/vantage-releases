@@ -1,0 +1,3 @@
+# Keep directories in git even before first release assets
+releases/**/.gitkeep
+checksums/**/.gitkeep
