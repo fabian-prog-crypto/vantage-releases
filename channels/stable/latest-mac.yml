@@ -1,11 +1,11 @@
-version: 2026.2.2508
+version: 2026.2.2509
 files:
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25h/vantage-2026.2.2508-mac.zip
-    sha512: 1Qm/fDpiqVeWfEYD2LR4BDipmgnqW72nZYziz483E8w2bv55MkgVKst/R9r6Plsi9gAcz9nfxPzcHc0wAmYA/Q==
-    size: 206833608
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25h/vantage-2026.2.2508-mac.zip.blockmap
-    sha512: bSALIQ03NrRUR+Sm8hwB/QuYpghu86q06whQAG4b2CWVYhdZo/HvA0MSgylJxb7D+4HshDvONncLOd5fKx3XgQ==
-    size: 215919
-path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25h/vantage-2026.2.2508-mac.zip
-sha512: 1Qm/fDpiqVeWfEYD2LR4BDipmgnqW72nZYziz483E8w2bv55MkgVKst/R9r6Plsi9gAcz9nfxPzcHc0wAmYA/Q==
-releaseDate: '2026-02-25T17:18:33.765Z'
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25i/vantage-2026.2.2509-mac.zip
+    sha512: 6F9QEpNujdgHyWlLXtqcwY4XT+AQa52YMa+WfCEIAVr6u9u+D4FgbckN2RuqSUTyZwYNdMPCl9pMpB2/RL6b6Q==
+    size: 206834416
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25i/vantage-2026.2.2509-mac.zip.blockmap
+    sha512: H4mtLQ/T7CSSmvuE/+Fn9l+UGGiKxszUE3H+oGsK9l8eeOCASUe04GTUWGEJbDidQgz6qQz8m06ZYw9X5neFzw==
+    size: 215706
+path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.25i/vantage-2026.2.2509-mac.zip
+sha512: 6F9QEpNujdgHyWlLXtqcwY4XT+AQa52YMa+WfCEIAVr6u9u+D4FgbckN2RuqSUTyZwYNdMPCl9pMpB2/RL6b6Q==
+releaseDate: '2026-02-25T17:34:36.385Z'
