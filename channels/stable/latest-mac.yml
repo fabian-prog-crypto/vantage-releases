@@ -1,14 +1,14 @@
-version: 2026.2.2602
+version: 2026.2.2603
 files:
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26b/vantage-2026.2.2602.dmg
-    sha512: bYT+n6f8gtnYnG4akltSXeBUGD4NvofO54dD4vCPQa4YDv8rtxvRihzOrfH49MrThn3wbcOIvRRhIPiWXGH3rw==
-    size: 206753586
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26b/vantage-2026.2.2602-mac.zip
-    sha512: 0EaZRTx0b0CgRPh8k7tAmT7PRWillfIsz/iqkIYL8WAphZ+fD9imXeRnsxyDfPgiX6q7EcnMUbu5RshC6FegRw==
-    size: 207457154
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26b/vantage-2026.2.2602-mac.zip.blockmap
-    sha512: V1cRM0Ekyf1v5ny3uMKTPe3UOeYhOuZKX6qkjdc6XAlizrsu9F6BEsIWQJK87lRbzEtMhTQihEIko5rRtlrqRQ==
-    size: 213304
-path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26b/vantage-2026.2.2602-mac.zip
-sha512: 0EaZRTx0b0CgRPh8k7tAmT7PRWillfIsz/iqkIYL8WAphZ+fD9imXeRnsxyDfPgiX6q7EcnMUbu5RshC6FegRw==
-releaseDate: '2026-02-26T14:51:01.744Z'
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26c/vantage-2026.2.2603.dmg
+    sha512: R4rEJakQso3Ejpp9Kyxuw6T/3HuZMI+pqQkVt/VBZE2Ki+Y0B89hcR7EW0vf5tW9SnE/c+4pa6VhRt8X2lGViA==
+    size: 206951076
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26c/vantage-2026.2.2603-mac.zip
+    sha512: BUZLHGJTsaebMyL1SAsAcQWvPUiS66xJAEhNxOMgM8c6jLDjBOI5SAqqTXc5Wub4JbqQ4IuloUyaW6UQqweJIw==
+    size: 207454296
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26c/vantage-2026.2.2603-mac.zip.blockmap
+    sha512: IiOO+mMarmmkF7b+lpAIXebERLT2DtdjhQeP/NCL1yeolCXyxHmVnJWKVfxX/oHrCA5uGx0v91Yh+OGJwRycEQ==
+    size: 213494
+path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.26c/vantage-2026.2.2603-mac.zip
+sha512: BUZLHGJTsaebMyL1SAsAcQWvPUiS66xJAEhNxOMgM8c6jLDjBOI5SAqqTXc5Wub4JbqQ4IuloUyaW6UQqweJIw==
+releaseDate: '2026-02-26T17:54:04.455Z'
