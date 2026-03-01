@@ -1,14 +1,14 @@
-version: 2026.2.2705
+version: 2026.3.101
 files:
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.27e/vantage-2026.2.2705.dmg
-    sha512: mmtNi6zsNIzmiZb4XPGF4iH3CiYdSJ7ZBQrixFwelUmLCQAdwUXn3cx2Hddus602XiDWTVPKN5X89lsoetzpGQ==
-    size: 206805580
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.27e/vantage-2026.2.2705-mac.zip
-    sha512: cwUPMijgfUPUmMcqg0DATgNMDGnamog1joA/ytUt3mRhOI0gBcvtATQnI8fRjLgwbHM4vnLzMXopk5bTVsduGA==
-    size: 207455794
-  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.27e/vantage-2026.2.2705-mac.zip.blockmap
-    sha512: 7yK6OEqh4Ztu2cwaNvfAz7V+l+MlWHtVeDDJMxiX8Qqlpk92qwoqwldKNVPHq6ITaF6NBSyYpI1qDRlhRitvoQ==
-    size: 213529
-path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.2.27e/vantage-2026.2.2705-mac.zip
-sha512: cwUPMijgfUPUmMcqg0DATgNMDGnamog1joA/ytUt3mRhOI0gBcvtATQnI8fRjLgwbHM4vnLzMXopk5bTVsduGA==
-releaseDate: '2026-02-27T08:59:03.027Z'
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.3.1a/vantage-2026.3.101.dmg
+    sha512: 6m+FI4Glzo+nS4UOFpzZaXOt1apn681MSm1qDSpXKLVzQ4a+0a/382ikQ4lkGTwD3OQ9cBi68EBIraHM/E9xlQ==
+    size: 190407558
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.3.1a/vantage-2026.3.101-mac.zip
+    sha512: PRZF4JQ+zg8iSdISi24z0JjuiGGAfZ/gzimWJWfBdPRuaW41jSHNWiQXBxGMpq0lLPWJwD1PfAa4xtv9FMMHjw==
+    size: 191535781
+  - url: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.3.1a/vantage-2026.3.101-mac.zip.blockmap
+    sha512: a2pKQtbcKruVPiUxDfeyuAy/7Hl0xjxvZjyS6Epz7gj55jYtpWRKmkYDQjjFts7AOpQqlS7quLJ5dZeFnXesdA==
+    size: 199864
+path: https://github.com/fabian-prog-crypto/vantage-releases/releases/download/v2026.3.1a/vantage-2026.3.101-mac.zip
+sha512: PRZF4JQ+zg8iSdISi24z0JjuiGGAfZ/gzimWJWfBdPRuaW41jSHNWiQXBxGMpq0lLPWJwD1PfAa4xtv9FMMHjw==
+releaseDate: '2026-03-01T10:18:36.062Z'
